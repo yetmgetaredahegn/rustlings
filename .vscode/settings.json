@@ -1,4 +1,4 @@
 {
-    "chat.disableAIFeatures": false
-    // "editor.inlineSuggest.enabled": false
+    "chat.disableAIFeatures": false,
+    "editor.inlineSuggest.enabled": false
 }
